@@ -8,6 +8,7 @@ Kimaye is growers of India's finest fruits, you can order fruits online through 
 ## How to run the app?
 - Clone the repo and run the index.html.
     -(https://github.com/Sakshi00555/Kimaye-website-clone.git)
+    -Change all files locatoin according to your files location before run, otherwise it will not work 
 
 ## Created Pages
 
